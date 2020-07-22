@@ -1,5 +1,5 @@
 {
-  "name": "webServer",
+  "name": "web-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

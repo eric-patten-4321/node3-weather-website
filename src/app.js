@@ -39,7 +39,7 @@ app.get("/help", (req, res) => {
   res.render("help", {
     title: "Help Page",
     helpMsg:
-      "If stuff's all jacked, try reloading the page. If that doesn't work, email the admin at fhoff@hastala.com",
+      "If stuff's all jacked, try reloading the page. That usually does the trick",
     name: "Eric P",
   });
 });
